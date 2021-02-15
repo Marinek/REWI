@@ -4,7 +4,7 @@ Auf dieser Seite werden **inoffizielle** Vorlagen für die Erstellung von Hausar
 
 ## Vorlagen
 
-### [Hausarbeit (Calibri)](https://github.com/Marinek/REWI/blob/gh-pages/vorlagen/Vorlage%20Hausarbeit.dotx)
+### Hausarbeit (Calibri)
 
 [Herunterladen: Hausarbeit (Calibri)](https://github.com/Marinek/REWI/blob/gh-pages/vorlagen/Vorlage%20Hausarbeit.dotx)
 
@@ -24,7 +24,7 @@ Schriftart: Calibri! - *Bitte die andere Vorlage beachten für die Verwendung vo
 - Links großer Rand für Bemerkungen.
 - Unten mittig fortlaufende Seitennummerierung (arabisch)
 
-### [Hausarbeit (Times New Roman)](https://github.com/Marinek/REWI/blob/gh-pages/vorlagen/Vorlage%20Hausarbeit%20Times%20New%20Roman.dotx)
+### Hausarbeit (Times New Roman)
 
 [Herunterladen: Hausarbeit (Times New Roman)](https://github.com/Marinek/REWI/blob/gh-pages/vorlagen/Vorlage%20Hausarbeit%20Times%20New%20Roman.dotx)
  
